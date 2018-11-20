@@ -18,9 +18,9 @@
   </description>
   <url>http://github.com/AsyncHttpClient/async-http-client</url>
   <scm>
-    <url>https://github.com/AsyncHttpClient/async-http-client</url>
-    <connection>scm:git:git@github.com:AsyncHttpClient/async-http-client.git</connection>
-    <developerConnection>scm:git:git@github.com:AsyncHttpClient/async-http-client.git</developerConnection>
+    <url>https://github.com/jenkinsci/lib-async-http-client</url>
+    <connection>scm:git:git@github.com:jenkinsci/lib-async-http-client.git</connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/lib-async-http-client.git</developerConnection>
   </scm>
   <issueManagement>
     <system>jira</system>
